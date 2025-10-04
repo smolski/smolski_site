@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Felipe Micail da Silva Smolski
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Felipe
+last_name: Smolski
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
-status:
-  icon: 🚀
+#status:
+#  icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+#role: Senior AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+#organizations:
+#  - name: Meta AI
+#    url: https://ai.meta.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -48,10 +48,11 @@ profiles:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Economic Development
+  - Economic Complexity
+  - Innovation
+  - Regional Economics
+  - Inequality
 
 education:
   - area: PhD Computer Science (AI Focus)
