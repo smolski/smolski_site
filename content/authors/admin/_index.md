@@ -50,7 +50,6 @@ interests:
   - Inequality
 
 education:
-  courses:
   - area: Phd in Economics (Organizations, Markets and Innovation)
     institution: Unisinos University (UNISINOS)
     year: 2022-2025
