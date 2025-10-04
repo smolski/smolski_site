@@ -32,15 +32,15 @@ highlight_name: true
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com.br/citations?user=Pt6gxR4AAAAJ&hl=pt-BR
-  - icon: academicons/github
-    url: https://github.com/smolski
-  - icon: academicons/researchgate
-    url: https://www.researchgate.net/profile/Felipe_Smolski?ev=hdr_xprfR
-  - icon: academicons/lattes
-    url: http://lattes.cnpq.br/0578969416600036
+# profiles:
+#   - icon: academicons/google-scholar
+#     url: https://scholar.google.com.br/citations?user=Pt6gxR4AAAAJ&hl=pt-BR
+#   - icon: academicons/github
+#     url: https://github.com/smolski
+#   - icon: academicons/researchgate
+#     url: https://www.researchgate.net/profile/Felipe_Smolski?ev=hdr_xprfR
+#   - icon: academicons/lattes
+#     url: http://lattes.cnpq.br/0578969416600036
 
 interests:
   - Economic Development
