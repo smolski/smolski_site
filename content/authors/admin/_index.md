@@ -33,19 +33,14 @@ highlight_name: true
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com.br/citations?user=Pt6gxR4AAAAJ&hl=pt-BR
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/smolski
-  - icon: researchgate
-    icon_pack: fab
-    link: https://www.researchgate.net/profile/Felipe_Smolski?ev=hdr_xprfR
-  - icon: lattes
-    icon_pack: ai
-    link: http://lattes.cnpq.br/0578969416600036
-
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com.br/citations?user=Pt6gxR4AAAAJ&hl=pt-BR
+  - icon: brands/github
+    url: https://github.com/smolski
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Felipe_Smolski?ev=hdr_xprfR
+  - icon: academicons/lattes
+    url: http://lattes.cnpq.br/0578969416600036
 
 interests:
   - Economic Development
@@ -55,6 +50,7 @@ interests:
   - Inequality
 
 education:
+  courses:
   - area: Phd in Economics (Organizations, Markets and Innovation)
     institution: Unisinos University (UNISINOS)
     year: 2022-2025
