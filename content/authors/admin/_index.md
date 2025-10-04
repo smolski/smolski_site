@@ -10,7 +10,7 @@ first_name: Felipe
 last_name: Smolski
 
 # Pronouns (optional)
-pronouns: he/him
+#pronouns: he/him
 
 # Status emoji
 #status:
@@ -33,19 +33,19 @@ highlight_name: true
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com.br/citations?user=Pt6gxR4AAAAJ&hl=pt-BR
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/smolski
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Felipe_Smolski?ev=hdr_xprfR
+  - icon: lattes
+    icon_pack: ai
+    link: http://lattes.cnpq.br/0578969416600036
+
 
 interests:
   - Economic Development
@@ -55,49 +55,59 @@ interests:
   - Inequality
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
-
-work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  - area: Phd in Economics (Organizations, Markets and Innovation)
+    institution: Unisinos University (UNISINOS)
+    year: 2022-2025
+  - area: Msc in Development and Public Policies
+    institution: Federal University of South Frontier (UFFS)
+    year: 2017
+  - area: BSc in Economic Sciences
+    institution: Northwestern Regional University of the State of Rio Grande do Sul (Unijuí)
+    year: 2009
+    
+#   - area: PhD Computer Science (AI Focus)
+#     institution: Stanford University
+#     date_start: 2015-09-01
+#     date_end: 2019-06-30
+#     summary: |
+#       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+#     button:
+#       text: 'Read Thesis'
+#       url: 'https://example.com/thesis.pdf'
+#   - area: MS Computer Science
+#     institution: Carnegie Mellon University
+#     date_start: 2013-09-01
+#     date_end: 2015-05-31
+#     summary: |
+#       GPA: 4.0/4.0
+# 
+#       Specialized in machine learning and robotics.
+#   - area: BS Computer Science
+#     institution: MIT
+#     date_start: 2009-09-01
+#     date_end: 2013-05-31
+#     summary: |
+#       GPA: 3.9/4.0
+# 
+#       Minored in Mathematics. President of AI Club.
+# 
+# work:
+#   - position: Senior AI Research Scientist
+#     company_name: Meta AI
+#     company_url: 'https://ai.meta.com/'
+#     company_logo: ''
+#     date_start: 2020-01-01
+#     date_end: ''
+#     summary: |2-
+#       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+#   - position: AI Research Intern
+#     company_name: OpenAI
+#     company_url: 'https://openai.com/'
+#     company_logo: ''
+#     date_start: 2019-06-01
+#     date_end: 2019-12-31
+#     summary: |
+#       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
