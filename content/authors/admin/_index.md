@@ -35,7 +35,7 @@ highlight_name: true
 profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com.br/citations?user=Pt6gxR4AAAAJ&hl=pt-BR
-  - icon: brands/github
+  - icon: academicons/github
     url: https://github.com/smolski
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Felipe_Smolski?ev=hdr_xprfR
