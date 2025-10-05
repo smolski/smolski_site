@@ -25,7 +25,7 @@ sections:
   #     # Avatar customization
   #     avatar:
   #       size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-  #       shape: circle # Options: circle (default), square, rounded
+         shape: square # Options: circle (default), square, rounded
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
@@ -59,15 +59,15 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - events
+  #   design:
+  #     view: card
   # - block: collection
   #   id: news
   #   content:
