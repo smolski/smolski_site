@@ -1,5 +1,5 @@
 ---
-title: ''Analysis of the scientific production profile of the journal Brazilian Journal of Public Administration (RAP) in the period 2003-16'
+title: 'Analysis of the scientific production profile of the journal Brazilian Journal of Public Administration (RAP) in the period 2003-16'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
