@@ -35,7 +35,7 @@ highlight_name: true
 profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com.br/citations?user=Pt6gxR4AAAAJ&hl=pt-BR
-  - icon: academicons/github
+  - icon: github
     url: https://github.com/smolski
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Felipe_Smolski?ev=hdr_xprfR
@@ -172,5 +172,9 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-PhD in Economics from the Graduate Program in Development Economics, research line in Organisations, Markets, and Innovation, at the University of Vale do Rio dos Sinos (Unisinos). Master’s degree in Development and Public Policy from the Federal University of Fronteira Sul (UFFS), Cerro Largo Campus (2017). Postgraduate specialisation in Investment Management from Faculdade Integrada Grande Fortaleza (FGF, 2012), and a Bachelor’s degree in Economics from the Regional University of Northwestern Rio Grande do Sul (UNIJUÍ, 2009). Member of the Research Group on the Economic Dynamics of Innovation (GDIN) – http://dgp.cnpq.br/dgp/espelhogrupo/8825742320581605
-. (Information provided by the author)
+PhD in Economics from the Graduate Program in Development Economics, 
+research line in Organisations, Markets, and Innovation, at the University of Vale do Rio dos Sinos (Unisinos). 
+Master’s degree in Development and Public Policy from the Federal University of Fronteira Sul (UFFS), Cerro Largo Campus (2017). 
+#Postgraduate specialisation in Investment Management from Faculdade Integrada Grande Fortaleza (FGF, 2012), and a 
+Bachelor’s degree in Economics from the Regional University of Northwestern Rio Grande do Sul (UNIJUÍ, 2009). Member of the Research Group on the Economic Dynamics of Innovation (GDIN) – http://dgp.cnpq.br/dgp/espelhogrupo/8825742320581605
+. 
