@@ -6,7 +6,7 @@ authors:
   - Dalcin D
 
 date: '2019-10-01T00:00:00Z'
-doi: '10.54399/rbgdr.v15i5.5042'
+doi: 'rbgdr.v15i5.5042'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-08-08T00:00:00Z'
