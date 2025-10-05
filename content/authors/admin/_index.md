@@ -175,6 +175,5 @@ awards:
 PhD in Economics from the Graduate Program in Development Economics, 
 research line in Organisations, Markets, and Innovation, at the University of Vale do Rio dos Sinos (Unisinos). 
 Master’s degree in Development and Public Policy from the Federal University of Fronteira Sul (UFFS), Cerro Largo Campus (2017). 
-#Postgraduate specialisation in Investment Management from Faculdade Integrada Grande Fortaleza (FGF, 2012), and a 
 Bachelor’s degree in Economics from the Regional University of Northwestern Rio Grande do Sul (UNIJUÍ, 2009). Member of the Research Group on the Economic Dynamics of Innovation (GDIN) – http://dgp.cnpq.br/dgp/espelhogrupo/8825742320581605
 . 
