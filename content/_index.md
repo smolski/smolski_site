@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Bio'
+title: ''
 date: 2022-10-24
 type: landing
 
@@ -21,11 +21,11 @@ sections:
         interests: ''
     design:
       # Apply a gradient background
-      css_class: hbx-bg-gradient
+      #css_class: hbx-bg-gradient
       # Avatar customization
       avatar:
         size: small # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: rounded # Options: circle (default), square, rounded
+        shape: circle # Options: circle (default), square, rounded
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
