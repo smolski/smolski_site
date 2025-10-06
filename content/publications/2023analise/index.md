@@ -6,7 +6,7 @@ authors:
     - Fochezatto A,
 
 date: '2023-10-01T00:00:00Z'
-#doi: '10.5007/2175-8069.2022.e84420'
+doi: '10.1590/1982-3533.2023v32n3art04'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-10-08T00:00:00Z'
