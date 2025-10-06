@@ -9,11 +9,11 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography-2
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: 'ASD'
+      text: ''
   #     # Show a call-to-action button under your biography? (optional)
   #     headings:
   #       about: ''
