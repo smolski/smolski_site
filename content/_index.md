@@ -14,18 +14,18 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ''
-  #     # Show a call-to-action button under your biography? (optional)
-  #     headings:
-  #       about: ''
-  #       education: ''
-  #       interests: ''
-  #   design:
-  #     # Apply a gradient background
-  #     css_class: hbx-bg-gradient
-  #     # Avatar customization
-  #     avatar:
-  #       size: small # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-  #       shape: square # Options: circle (default), square, rounded
+      # Show a call-to-action button under your biography? (optional)
+      headings:
+        about: ''
+        education: ''
+        interests: ''
+    design:
+      # Apply a gradient background
+      css_class: hbx-bg-gradient
+      # Avatar customization
+      avatar:
+        size: small # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        shape: square # Options: circle (default), square, rounded
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
