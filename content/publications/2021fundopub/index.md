@@ -9,7 +9,7 @@ authors:
   - Rossino N
 
 date: '2021-09-01T00:00:00Z'
-doi: 'https://doi.org/10.21527/2237-6453.2021.57.10512'
+doi: '10.21527/2237-6453.2021.57.10512'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-08-08T00:00:00Z'
@@ -41,7 +41,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.researchgate.net/profile/Felipe-Smolski/publication/358228296_A_relacao_entre_credito_e_inovacao_uma_revisao_sistematica_da_literatura_empirica/links/61f6d20711a1090a79c0dec8/A-relacao-entre-credito-e-inovacao-uma-revisao-sistematica-da-l
+url_pdf: https://www.revistas.unijui.edu.br/index.php/desenvolvimentoemquestao/article/view/10512
 url_code: ''
 url_dataset: ''
 url_poster: ''
