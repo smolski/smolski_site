@@ -6,7 +6,7 @@ authors:
     - Fochezatto A,
 
 date: '2023-10-01T00:00:00Z'
-#doi: 'https://doi.org/10.5007/2175-8069.2022.e84420'
+#doi: '10.5007/2175-8069.2022.e84420'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-10-08T00:00:00Z'
@@ -38,7 +38,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://submission.scielo.br/index.php/ecos/article/view/268236
+url_pdf: https://www.scielo.br/j/ecos/a/6smdMWd9yNxWzqcfpJ5FPjv/?format=html&lang=pt
 url_code: ''
 url_dataset: ''
 url_poster: ''
