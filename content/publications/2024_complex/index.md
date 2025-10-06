@@ -4,9 +4,9 @@ authors:
 - Smolski, FMS
 - Ruffoni, J
 - Mascarini, Suelene
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2024-12-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
