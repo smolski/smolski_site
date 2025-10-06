@@ -1,5 +1,5 @@
 ---
-title: 'Análise espacial da relação entre financiamento e especialização industrial por intensidade tecnológica no Brasil'
+title: 'Spatial analysis of the relationship between financing and industrial specialization by technological intensity in Brazil'
 
 authors:
     - Smolski FMS,
