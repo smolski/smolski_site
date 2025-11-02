@@ -24,14 +24,14 @@ sections:
       #css_class: hbx-bg-gradient
       background:
         color: white
-        image:
+        #image:
           # Add your image background to `assets/media/`.
           #filename: sky.jpg # this is the image backgroup
-          filters:
-            brightness: -50.0
-          size: cover
-          position: center
-          parallax: false
+          #filters:
+            #brightness: -50.0
+          #size: cover
+          #position: center
+          #parallax: false
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
