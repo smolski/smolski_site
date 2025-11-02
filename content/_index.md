@@ -22,8 +22,8 @@ sections:
     design:
       # Apply a gradient background
       #css_class: hbx-bg-gradient
-      background:
-        color: white
+      #background:
+        #color: white
         #image:
           # Add your image background to `assets/media/`.
           #filename: sky.jpg # this is the image backgroup
