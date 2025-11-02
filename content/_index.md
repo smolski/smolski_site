@@ -28,7 +28,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: sky.jpg # this is the image backgroup
           filters:
-            brightness: -0.0
+            brightness: -50.0
           size: cover
           position: center
           parallax: false
