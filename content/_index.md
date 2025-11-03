@@ -29,7 +29,7 @@ sections:
           filename: sky.jpg # this is the image backgroup
           filters:
             brightness: -50.0
-          size: calc(100vh - 70px)
+          size: actual
           position: center
           parallax: false
       # Avatar customization
