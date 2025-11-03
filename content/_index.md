@@ -28,8 +28,8 @@ sections:
           # Add your image background to `assets/media/`.
           filename: sky.jpg # this is the image backgroup
           filters:
-            brightness: -50.0
-          size: actual
+            brightness: -0.0
+          size: "actual"
           position: center
           parallax: false
       # Avatar customization
