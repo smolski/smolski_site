@@ -1,5 +1,0 @@
----
-title: Dashboard
-view: card
----
-
