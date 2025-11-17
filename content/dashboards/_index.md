@@ -1,6 +1,7 @@
 ---
 title: Dashboards
 view: card
+class: "custom"
 ---
 
 Ola
