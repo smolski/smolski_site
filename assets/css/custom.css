@@ -6,7 +6,7 @@
 }
 
 /* Se quiser margem ZERO */
-.page-body, .article-container, .container {
+/*.page-body, .article-container, .container {
   padding-left: 0 !important;
   padding-right: 0 !important;
 }
