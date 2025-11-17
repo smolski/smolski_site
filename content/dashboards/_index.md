@@ -1,10 +1,7 @@
 ---
 title: Dashboards
-summary: My courses
-type: landing
+view: card
 ---
 
 Ola
-
-"ola"
 
