@@ -15,14 +15,18 @@ content_meta:
   trending: false
 ---
 
-👋 Welcome to your shiny new site. Ready to learn more?
+Aqui:
 
-<!--more-->
+<iframe src="https://smolski.shinyapps.io/Siconfi-RS"style="position: absolute; width: 100%; height: 100%; border: none"></iframe>
 
-This course provides a brief introduction to creating and editing your site with Hugo Blox. For full documentation, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
-
-## Next
-
-{{< cards >}}
-  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Setup your new site in just 5 minutes!" >}}
-{{< /cards >}}
+# 👋 Welcome to your shiny new site. Ready to learn more?
+# 
+# <!--more-->
+# 
+# This course provides a brief introduction to creating and editing your site with Hugo Blox. For full documentation, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
+# 
+# ## Next
+# 
+# {{< cards >}}
+#   {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Setup your new site in just 5 minutes!" >}}
+# {{< /cards >}}
