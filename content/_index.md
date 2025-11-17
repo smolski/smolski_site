@@ -128,3 +128,5 @@ sections:
   #       css_class: 'bg-primary-300'
   #       css_style: ''
 ---
+
+<iframe src="https://smolski.shinyapps.io/Siconfi-RS"style="position: absolute; width: 100%; height: 100%; border: none"></iframe>
