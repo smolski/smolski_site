@@ -1,12 +1,7 @@
-/* Reduzir margens laterais */
-.page-body, .article-container, .container {
-  max-width: 900px !important;   /* ou o tamanho que preferir */
-  padding-left: 10px !important;
-  padding-right: 10px !important;
-}
-
-/* Se quiser margem ZERO */
-/*.page-body, .article-container, .container {
-  padding-left: 0 !important;
-  padding-right: 0 !important;
+body.pagina-estreita .page-body,
+body.pagina-estreita .article-container,
+body.pagina-estreita .container {
+    max-width: 900px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
 }
