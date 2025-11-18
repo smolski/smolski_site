@@ -1,9 +1,9 @@
 ---
 title: Dashboards
-spacing:
-  # Customize the padding of the section:
-  # padding: [top, right, bottom, left]
-  padding: [50px, 0px, 50px, 10px] # This adds 100px of left space
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["20px", "0", "20px", "0"]
 ---
 
 
