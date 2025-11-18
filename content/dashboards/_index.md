@@ -3,7 +3,7 @@ title: Dashboards
 design:
   # Section spacing
   spacing: '5rem'
-  padding: [20px, 0, 20px, 0]
+  padding: ['5rem', '5rem', '5rem', '5rem']
 ---
 
 Ola
