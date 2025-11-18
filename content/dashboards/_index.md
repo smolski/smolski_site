@@ -7,4 +7,4 @@ class: "custom"
 
 Ola
 
-<iframe src="https://smolski.shinyapps.io/Siconfi-RS"style="position: absolute; width: 1200; height: 1000; border: none"></iframe>
+<iframe src="https://smolski.shinyapps.io/Siconfi-RS"style="position: absolute; width: 80%; height: 80%; border: none"></iframe>
