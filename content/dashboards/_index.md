@@ -5,7 +5,6 @@ class: "custom"
 
 
 
-</style>
 
 Ola
 
