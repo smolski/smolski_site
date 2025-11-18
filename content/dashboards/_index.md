@@ -23,3 +23,13 @@ design:
 Ola
 
 <iframe src="https://smolski.shinyapps.io/Siconfi-RS"style="position: absolute; width: 80%; height: 80%; border: none"></iframe>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LHRWB7PH9Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LHRWB7PH9Z');
+</script>
