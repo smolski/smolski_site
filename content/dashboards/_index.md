@@ -1,6 +1,9 @@
 ---
 title: Dashboards
-class: "custom"
+spacing:
+  # Customize the padding of the section:
+  # padding: [top, right, bottom, left]
+  padding: [50px, 0px, 50px, 10px] # This adds 100px of left space
 ---
 
 
