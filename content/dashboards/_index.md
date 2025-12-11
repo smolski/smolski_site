@@ -7,11 +7,6 @@ design:
   width: full
 ---
 
-{{ define "main" }}
-<div class="dashboard-full">
-  {{ .Content }}
-</div>
-{{ end }}
 
 Ola
 
