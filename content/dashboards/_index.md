@@ -7,6 +7,12 @@ design:
   width: full
 ---
 
+{{ define "main" }}
+<div class="dashboard-full">
+  {{ .Content }}
+</div>
+{{ end }}
+
 Ola
 
 <iframe src="https://smolski.shinyapps.io/Siconfi-RS"style="position: absolute; width: 80%; height: 80%; border: none"></iframe>
