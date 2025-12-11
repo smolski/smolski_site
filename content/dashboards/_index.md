@@ -4,8 +4,7 @@ design:
   # Section spacing
   spacing: '5rem'
   padding: ['5rem', '5rem', '5rem', '5rem']
-  sidebar:
-    show: false
+  width: full
 ---
 
 Ola
